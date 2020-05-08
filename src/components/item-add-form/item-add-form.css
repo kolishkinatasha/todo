@@ -1,0 +1,10 @@
+.item-add-form {
+    margin-top: 15px;
+}
+
+.item-add-form input {
+    margin-right: 3px;
+}
+.fa .fa-trash-o {
+    background-color: tomato;
+}
